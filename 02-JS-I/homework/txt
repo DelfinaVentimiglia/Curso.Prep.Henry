@@ -1,0 +1,5 @@
+variable. Es almacenar algo para poder usarlo mas tarde. var nombre= Paz
+Strings. Es un texto que va entre comillas. 
+Funciones. Son objectos que hacen tareas especificas y te devuelve un valor, 
+Valores booleanos. Son codigos binarios, solamente dos opciones gralmente true or false.
+Declaraciones if. Sirve para evaluar la condicion de la funcion y devuelve true pero si es falso ejecuta el ELSE y devuelve false.
